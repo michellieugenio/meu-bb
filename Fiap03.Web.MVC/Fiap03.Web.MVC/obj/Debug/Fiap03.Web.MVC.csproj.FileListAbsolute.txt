@@ -1,0 +1,594 @@
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Fiap03.Web.MVC.dll.config
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Fiap03.Web.MVC.dll
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Fiap03.Web.MVC.pdb
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\csc.exe
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\csc.exe.config
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\csc.rsp
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\csi.exe
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\csi.exe.config
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\csi.rsp
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.AppContext.dll
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Collections.Immutable.dll
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Console.dll
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Diagnostics.Process.dll
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.IO.Compression.dll
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.IO.FileSystem.dll
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.IO.Pipes.dll
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Reflection.Metadata.dll
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Security.AccessControl.dll
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Security.Claims.dll
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Threading.Thread.dll
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.ValueTuple.dll
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Xml.XPath.dll
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\vbc.exe
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\vbc.exe.config
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\vbc.rsp
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\VBCSCompiler.exe
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\VBCSCompiler.exe.config
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Microsoft.Web.Infrastructure.dll
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Helpers.dll
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Mvc.dll
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Razor.dll
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Webpages.Deployment.dll
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Webpages.dll
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Webpages.Razor.dll
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Razor.xml
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Webpages.xml
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Webpages.Deployment.xml
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Webpages.Razor.xml
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Helpers.xml
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Mvc.xml
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\obj\Debug\Fiap03.Web.MVC.csprojAssemblyReference.cache
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\obj\Debug\Fiap03.Web.MVC.csproj.CoreCompileInputs.cache
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\obj\Debug\Fiap03.Web.MVC.csproj.CopyComplete
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\obj\Debug\Fiap03.Web.MVC.dll
+D:\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\obj\Debug\Fiap03.Web.MVC.pdb
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Fiap03.Web.MVC.dll.config
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Fiap03.Web.MVC.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Fiap03.Web.MVC.pdb
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\csc.exe
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\csc.exe.config
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\csc.rsp
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\csi.exe
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\csi.exe.config
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\csi.rsp
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.AppContext.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Console.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Security.Claims.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Threading.Thread.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\vbc.exe
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\vbc.exe.config
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\vbc.rsp
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Helpers.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Mvc.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Razor.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Webpages.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Razor.xml
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Webpages.xml
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Helpers.xml
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Mvc.xml
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\obj\Debug\Fiap03.Web.MVC.csprojAssemblyReference.cache
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\obj\Debug\Fiap03.Web.MVC.csproj.CoreCompileInputs.cache
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\obj\Debug\Fiap03.Web.MVC.csproj.CopyComplete
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\obj\Debug\Fiap03.Web.MVC.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\obj\Debug\Fiap03.Web.MVC.pdb
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Dapper.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Dapper.xml
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Fiap03.Web.MVC.dll.config
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Fiap03.Web.MVC.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Fiap03.Web.MVC.pdb
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\csc.exe
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\csc.exe.config
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\csc.rsp
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\csi.exe
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\csi.exe.config
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\csi.rsp
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.AppContext.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Console.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Security.Claims.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Threading.Thread.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\vbc.exe
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\vbc.exe.config
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\vbc.rsp
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Dapper.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Helpers.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Mvc.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Razor.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Webpages.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Dapper.xml
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Razor.xml
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Webpages.xml
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Helpers.xml
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Mvc.xml
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\obj\Debug\Fiap03.Web.MVC.csprojAssemblyReference.cache
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\obj\Debug\Fiap03.Web.MVC.csproj.CoreCompileInputs.cache
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\obj\Debug\Fiap03.Web.MVC.csproj.CopyComplete
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\obj\Debug\Fiap03.Web.MVC.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Web.MVC\obj\Debug\Fiap03.Web.MVC.pdb
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Fiap03.Web.MVC.dll.config
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Fiap03.Web.MVC.dll
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Fiap03.Web.MVC.pdb
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\csc.exe
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\csc.exe.config
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\csc.rsp
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\csi.exe
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\csi.exe.config
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\csi.rsp
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.AppContext.dll
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Console.dll
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Security.Claims.dll
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Threading.Thread.dll
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\vbc.exe
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\vbc.exe.config
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\vbc.rsp
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Dapper.dll
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Helpers.dll
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Mvc.dll
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Razor.dll
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Webpages.dll
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Dapper.xml
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Razor.xml
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Webpages.xml
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Helpers.xml
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Mvc.xml
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\obj\Debug\Fiap03.Web.MVC.csprojAssemblyReference.cache
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\obj\Debug\Fiap03.Web.MVC.csproj.CoreCompileInputs.cache
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\obj\Debug\Fiap03.Web.MVC.csproj.CopyComplete
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\obj\Debug\Fiap03.Web.MVC.dll
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\obj\Debug\Fiap03.Web.MVC.pdb
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Fiap03.Web.MVC.dll.config
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Fiap03.Web.MVC.dll
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Fiap03.Web.MVC.pdb
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\csc.exe
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\csc.exe.config
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\csc.rsp
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\csi.exe
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\csi.exe.config
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\csi.rsp
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.AppContext.dll
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Console.dll
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Security.Claims.dll
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Threading.Thread.dll
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\vbc.exe
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\vbc.exe.config
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\vbc.rsp
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Dapper.dll
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Helpers.dll
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Mvc.dll
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Razor.dll
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Webpages.dll
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Dapper.xml
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Razor.xml
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Webpages.xml
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Helpers.xml
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Mvc.xml
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\obj\Debug\Fiap03.Web.MVC.csprojAssemblyReference.cache
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\obj\Debug\Fiap03.Web.MVC.csproj.CoreCompileInputs.cache
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\obj\Debug\Fiap03.Web.MVC.csproj.CopyComplete
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\obj\Debug\Fiap03.Web.MVC.dll
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Web.MVC\obj\Debug\Fiap03.Web.MVC.pdb
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\obj\Debug\Fiap03.Web.MVC.csproj.CoreCompileInputs.cache
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Fiap03.Web.MVC.dll.config
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Fiap03.Web.MVC.dll
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Fiap03.Web.MVC.pdb
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\csc.exe
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\csc.exe.config
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\csc.rsp
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\csi.exe
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\csi.exe.config
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\csi.rsp
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.AppContext.dll
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Console.dll
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Security.Claims.dll
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Threading.Thread.dll
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\vbc.exe
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\vbc.exe.config
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\vbc.rsp
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Dapper.dll
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Fiap03.DAL.dll
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Fiap03.MOD.dll
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Helpers.dll
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Mvc.dll
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Razor.dll
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Webpages.dll
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Fiap03.DAL.pdb
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Fiap03.MOD.pdb
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Dapper.xml
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Razor.xml
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Webpages.xml
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Helpers.xml
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Mvc.xml
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\obj\Debug\Fiap03.Web.MVC.csprojAssemblyReference.cache
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\obj\Debug\Fiap03.Web.MVC.csproj.CopyComplete
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\obj\Debug\Fiap03.Web.MVC.dll
+C:\Users\logonrmlocal\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\obj\Debug\Fiap03.Web.MVC.pdb
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Fiap03.Web.MVC.dll.config
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Fiap03.Web.MVC.dll
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Fiap03.Web.MVC.pdb
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\csc.exe
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\csc.exe.config
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\csc.rsp
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\csi.exe
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\csi.exe.config
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\csi.rsp
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.AppContext.dll
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Collections.Immutable.dll
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Console.dll
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Diagnostics.Process.dll
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.IO.Compression.dll
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.IO.FileSystem.dll
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.IO.Pipes.dll
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Reflection.Metadata.dll
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Security.AccessControl.dll
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Security.Claims.dll
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Threading.Thread.dll
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.ValueTuple.dll
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Xml.XPath.dll
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\vbc.exe
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\vbc.exe.config
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\vbc.rsp
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\VBCSCompiler.exe
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\VBCSCompiler.exe.config
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Dapper.dll
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Fiap03.DAL.dll
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Fiap03.MOD.dll
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Microsoft.Web.Infrastructure.dll
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Helpers.dll
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Mvc.dll
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Razor.dll
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Webpages.Deployment.dll
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Webpages.dll
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Webpages.Razor.dll
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Fiap03.DAL.pdb
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Fiap03.MOD.pdb
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Dapper.xml
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Razor.xml
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Webpages.xml
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Webpages.Deployment.xml
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Webpages.Razor.xml
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Helpers.xml
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Mvc.xml
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\obj\Debug\Fiap03.Web.MVC.csprojAssemblyReference.cache
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\obj\Debug\Fiap03.Web.MVC.csproj.CoreCompileInputs.cache
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\obj\Debug\Fiap03.Web.MVC.csproj.CopyComplete
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\obj\Debug\Fiap03.Web.MVC.dll
+D:\Fiap03.Web.MVC\Fiap03.Web.MVC\obj\Debug\Fiap03.Web.MVC.pdb
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Fiap03.Web.MVC.dll.config
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Fiap03.Web.MVC.dll
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Fiap03.Web.MVC.pdb
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\csc.exe
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\csc.exe.config
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\csc.rsp
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\csi.exe
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\csi.exe.config
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\csi.rsp
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.AppContext.dll
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Console.dll
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Security.Claims.dll
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Threading.Thread.dll
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\vbc.exe
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\vbc.exe.config
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\vbc.rsp
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Dapper.dll
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Fiap03.DAL.dll
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Fiap03.MOD.dll
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Helpers.dll
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Mvc.dll
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Razor.dll
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Webpages.dll
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Fiap03.DAL.pdb
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Fiap03.MOD.pdb
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Dapper.xml
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Razor.xml
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Webpages.xml
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Helpers.xml
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\System.Web.Mvc.xml
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\obj\Debug\Fiap03.Web.MVC.csprojAssemblyReference.cache
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\obj\Debug\Fiap03.Web.MVC.csproj.CoreCompileInputs.cache
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\obj\Debug\Fiap03.Web.MVC.csproj.CopyComplete
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\obj\Debug\Fiap03.Web.MVC.dll
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Web.MVC\obj\Debug\Fiap03.Web.MVC.pdb

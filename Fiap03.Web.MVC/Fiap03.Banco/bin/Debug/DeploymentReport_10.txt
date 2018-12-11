@@ -1,0 +1,19 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Carro] (Table)
+       [dbo].[Documento] (Table)
+       [dbo].[Marca] (Table)
+       [dbo].[FK_Carro_Documento] (Foreign Key)
+       [dbo].[FK_Carro_Marca] (Foreign Key)
+
+** Supporting actions

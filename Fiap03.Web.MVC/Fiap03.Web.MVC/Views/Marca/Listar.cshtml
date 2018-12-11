@@ -1,0 +1,105 @@
+﻿@model IList<Fiap03.Web.MVC.Models.MarcaModel>
+
+@{
+    ViewBag.Title = "Listar Marca";
+}
+
+<h1>Lista de Marcas</h1>
+
+@Fabrica.Mensagem(TempData["msg"])
+
+    <br />
+    <h6><b>Filtrar</b></h6>
+    @using (Html.BeginForm("Pesquisar", "Carro", FormMethod.Get))
+    {
+        <div class="row">
+            <div class="col-md-2">
+                <select name="Ano" class="form-control">
+                    @for (var i = 1900; i <= 2020; i++)
+                    {
+                        <option>@i</option>
+                    }
+
+                </select>
+            </div>
+            <div class="col-md-6">
+                <button type="submit" class="btn btn-primary">Buscar</button>
+            </div>
+        </div>
+        <br />
+        <br />
+        <div class="row">
+            <div class="col">
+
+            </div>
+        </div>
+    }
+    <br />
+
+
+@Html.ActionLink("Cadastrar", "Cadastrar", null, new { @class = "btn btn-info" })
+
+<br />
+<br />
+<h6><b>Lista</b></h6>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Nome</th>
+            <th>Data de criação</th>
+            <th>CNPJ</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var marca in Model)
+        {
+            <tr>
+                <td>@marca.ID</td>
+                <td>@marca.Nome</td>
+                <td>@marca.DataCriacao</td>
+                <td>@marca.CNPJ</td>
+                <td>
+                    <!-- Button trigger modal -->
+                    <button onclick="codigoExcluir.value = (@marca.ID)" type="button" class="btn btn-outline-danger btn-sm" data-toggle="modal" data-target="#exampleModal">
+                        Excluir
+                    </button>
+                </td>
+                <td>
+                    @Html.ActionLink("Editar", "Editar", new { id = marca.ID }, new { @class = "btn btn-info" })
+                    @Html.ActionLink("Carros", "Detalhar", new { id = marca.ID }, new { @class = "btn btn-info" })
+                    @Html.ActionLink("Modelos", "Index","Modelo", new { id = marca.ID }, new { @class = "btn btn-info" })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Confirmação</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <p>Deseja realmente excluir essa marca?</p>
+            </div>
+            <div class="modal-footer">
+                <!--Formulário: URL /Marca/Excluir - POST-->
+                @using (Html.BeginForm("Excluir", "Marca"))
+                {
+                    <!--Campo para o ID-->
+                    <input type="hidden" name="codigo" id="codigoExcluir" />
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Não</button>
+                    <button type="submit" class="btn btn-primary">Sim</button>
+                }
+            </div>
+        </div>
+    </div>
+</div>

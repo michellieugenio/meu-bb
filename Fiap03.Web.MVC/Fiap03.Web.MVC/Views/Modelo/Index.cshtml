@@ -1,0 +1,53 @@
+﻿@model Fiap03.Web.MVC.Models.ModeloModel
+
+@{
+    /**/
+
+    ViewBag.Title = "Cadastrar Marca";
+}
+
+<div class="page-header">
+    <h1>Cadastro de Marcas</h1>
+</div>
+
+
+
+
+@using (Html.BeginForm("Cadastrar", "Modelo", FormMethod.Post))
+{
+    @Html.Hidden("MarcaId",(int)ViewBag.Marca.ID)
+    <div class=" form-group">
+        @Html.LabelFor(m => m.Nome)
+        @Html.TextBoxFor(m => m.Nome, new { placeholder = "Digite o nome", @class = "form-control" })
+    </div>
+
+
+
+    @Fabrica.Botao("Cadastrar")
+}
+
+
+<div class="col">
+    <h2>Carros Registrados</h2>
+    <table class="table">
+        <thead>
+            <tr>
+
+                <th>Nome</th>
+
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var modelos in ViewBag.Modelos)
+            {
+                <tr>
+                    <td>@modelos.Nome</td>
+                    <td>@modelos.Marca</td>
+
+
+                </tr>
+
+            }
+        </tbody>
+    </table>
+</div>

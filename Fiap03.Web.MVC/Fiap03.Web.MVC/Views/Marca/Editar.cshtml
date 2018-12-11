@@ -1,0 +1,43 @@
+﻿@model Fiap03.Web.MVC.Models.MarcaModel
+
+@{
+    ViewBag.Title = "Editar Marca";
+}
+
+<h2>Editar Marca</h2>
+
+@Fabrica.Mensagem(TempData["msg"])
+
+@*@@if (TempData["msg"] != null)
+    {
+        <div class="alert alert-success">
+            @TempData["msg"]
+        </div>
+    }
+*@
+
+<!-- comentário html -->
+@* comentário c# *@
+
+
+@using (Html.BeginForm())
+{
+    <div class=" form-group">
+        @Html.LabelFor(m => m.Nome)
+        @Html.TextBoxFor(m => m.Nome, new { placeholder = "Digite o nome", @class = "form-control" })
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.DataCriacao)
+        @*<input name="@Html.NameFor(m => m.DataCriacao)" id="date" type="date" value="dd-mm-yyyy" class="form-control">*@
+        @Html.EditorFor(m => m.DataCriacao, new { htmlAttributes = new { @class = "form-control" } })
+    </div>
+    <div class=" form-group">
+        @Html.LabelFor(m => m.CNPJ)
+        @Html.TextBoxFor(m => m.CNPJ, new { placeholder = "Digite o CNPJ", @class = "form-control" })
+    </div>
+
+    @Fabrica.Botao("Editar")
+
+    @Html.ActionLink("Cancelar", "Listar", null, new { @class = "btn btn-secondary" })
+
+}

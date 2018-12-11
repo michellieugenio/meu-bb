@@ -1,0 +1,40 @@
+﻿@model Fiap03.Web.MVC.Models.CarroModel
+
+@{
+    ViewBag.Title = "Editar Carros";
+}
+
+<h2>Editar Carro</h2>
+
+@Fabrica.Mensagem(TempData["msg"])
+
+@*@@if (TempData["msg"] != null)
+    {
+        <div class="alert alert-success">
+            @TempData["msg"]
+        </div>
+    }
+*@
+
+<!-- comentário html -->
+@* comentário c# *@
+
+
+@using (Html.BeginForm())
+{
+   @Html.Partial("_form")
+
+    <div class="row">
+        <div class="col text-center">
+            @Fabrica.Botao("Editar")
+            @Html.ActionLink("Cancelar", "Listar", null, new { @class = "btn btn-secondary" })
+        </div>
+    </div>
+}
+
+@section scripts{
+
+    <p>Exemplo de Section</p>
+
+}
+

@@ -1,0 +1,63 @@
+﻿@model Fiap03.Web.MVC.Models.CarroModel
+
+    <div class="row">
+        <div class="col">
+            <h3>Carro</h3>
+            <div class="form-group">
+                @Html.LabelFor(c => c.MarcaId)
+                @Html.DropDownListFor(c => c.MarcaId, ViewBag.marcas as SelectList, "Selecione",
+        new { @class = "form-control" })
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(c => c.Combustivel)
+                @Html.EnumDropDownListFor(c => c.Combustivel, "Selecione", new { @class = "form-control" })
+            </div>
+            <div class=" form-group">
+                @Html.LabelFor(c => c.Ano)
+                @Html.TextBoxFor(c => c.Ano, new { placeholder = "Digite o ano", @class = "form-control" })
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(carro => carro.Placa)
+                @Html.TextBoxFor(carro => carro.Placa, new { placeholder = "Digite a placa", @class = "form-control" })
+            </div>
+            <div class="form-group">
+                @Html.CheckBoxFor(c => c.Esportivo)
+                @Html.LabelFor(c => c.Esportivo)
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(c => c.Descricao)
+                @Html.TextAreaFor(c => c.Descricao, new { placeholder = "Digite a descrição", @class = "form-control" })
+            </div>
+        </div>
+        <div class="col">
+            <h3>Documento</h3>
+            <div class="form-group">
+                @Html.LabelFor(d => d.Documento.Renavam)
+                @if (Model == null)
+                {
+                    @Html.TextBoxFor(d => d.Documento.Renavam, new { @class = "form-control"})
+                }
+                else
+                {
+                    @Html.TextBoxFor(d => d.Documento.Renavam, new { @class = "form-control", @readonly = "readonly" })
+                }
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(d => d.Documento.DataFabricacao)
+                @if (Model == null)
+                {
+                    @Html.TextBoxFor(d => d.Documento.DataFabricacao, new { @class = "form-control", @type = "date" })
+                }
+                else
+                {
+                    @Html.TextBoxFor(d => d.Documento.DataFabricacao, new { @class = "form-control", @type = "date", @Value = Model.Documento.DataFabricacao.ToString("yyyy-MM-dd") })
+                }
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(d => d.Documento.Categoria)
+                @Html.EnumDropDownListFor(d => d.Documento.Categoria, new { @class = "form-control" })
+            </div>
+        </div>
+    </div>
+
+

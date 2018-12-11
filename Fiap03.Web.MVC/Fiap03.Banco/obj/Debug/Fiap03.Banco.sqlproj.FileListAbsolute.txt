@@ -1,0 +1,56 @@
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Banco\bin\Debug\Fiap03.Banco.dacpac
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Banco\bin\Debug\Fiap03.Banco.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Banco\bin\Debug\Fiap03.Banco.pdb
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Banco\obj\Debug\Fiap03.Banco.sqlprojAssemblyReference.cache
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Banco\obj\Debug\Model.xml
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Banco\obj\Debug\refactor.xml
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Banco\obj\Debug\postdeploy.sql
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Banco\obj\Debug\predeploy.sql
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Banco\obj\Debug\Fiap03.Banco.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Banco\obj\Debug\Fiap03.Banco.pdb
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Banco\bin\Debug\Fiap03.Banco.dacpac
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Banco\bin\Debug\Fiap03.Banco.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Banco\bin\Debug\Fiap03.Banco.pdb
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Banco\obj\Debug\Fiap03.Banco.sqlprojAssemblyReference.cache
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Banco\obj\Debug\Model.xml
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Banco\obj\Debug\refactor.xml
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Banco\obj\Debug\postdeploy.sql
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Banco\obj\Debug\predeploy.sql
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Banco\obj\Debug\Fiap03.Banco.dll
+C:\Users\logonrmlocal\Downloads\Fabrica 0811\Fabrica 0611\Fabrica 0611\Fiap03.Web.MVC\Fiap03.Banco\obj\Debug\Fiap03.Banco.pdb
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Banco\bin\Debug\Fiap03.Banco.dacpac
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Banco\bin\Debug\Fiap03.Banco.dll
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Banco\bin\Debug\Fiap03.Banco.pdb
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Banco\obj\Debug\Fiap03.Banco.sqlprojAssemblyReference.cache
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Banco\obj\Debug\Model.xml
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Banco\obj\Debug\refactor.xml
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Banco\obj\Debug\postdeploy.sql
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Banco\obj\Debug\predeploy.sql
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Banco\obj\Debug\Fiap03.Banco.dll
+C:\Users\gabriela.pinheiro\Downloads\Fiap03.Web.MVC\Fiap03.Banco\obj\Debug\Fiap03.Banco.pdb
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Banco\bin\Debug\Fiap03.Banco.dacpac
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Banco\bin\Debug\Fiap03.Banco.dll
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Banco\bin\Debug\Fiap03.Banco.pdb
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Banco\obj\Debug\Fiap03.Banco.sqlprojAssemblyReference.cache
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Banco\obj\Debug\Fiap03.Banco.dll
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Banco\obj\Debug\Fiap03.Banco.pdb
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Banco\obj\Debug\Model.xml
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Banco\obj\Debug\refactor.xml
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Banco\obj\Debug\postdeploy.sql
+C:\Users\logonrmlocal\Downloads\Fiap03.Web.MVC\Fiap03.Banco\obj\Debug\predeploy.sql
+D:\Fiap03.Web.MVC\Fiap03.Banco\bin\Debug\Fiap03.Banco.dacpac
+D:\Fiap03.Web.MVC\Fiap03.Banco\bin\Debug\Fiap03.Banco.dll
+D:\Fiap03.Web.MVC\Fiap03.Banco\bin\Debug\Fiap03.Banco.pdb
+D:\Fiap03.Web.MVC\Fiap03.Banco\obj\Debug\Fiap03.Banco.sqlprojAssemblyReference.cache
+D:\Fiap03.Web.MVC\Fiap03.Banco\obj\Debug\Fiap03.Banco.dll
+D:\Fiap03.Web.MVC\Fiap03.Banco\obj\Debug\Fiap03.Banco.pdb
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Banco\bin\Debug\Fiap03.Banco.dacpac
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Banco\bin\Debug\Fiap03.Banco.dll
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Banco\bin\Debug\Fiap03.Banco.pdb
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Banco\obj\Debug\Fiap03.Banco.sqlprojAssemblyReference.cache
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Banco\obj\Debug\Fiap03.Banco.dll
+C:\Users\michelli.eugenio\Desktop\Fiap03.Web.MVC\Fiap03.Banco\obj\Debug\Fiap03.Banco.pdb
+D:\Fiap03.Web.MVC\Fiap03.Banco\obj\Debug\Model.xml
+D:\Fiap03.Web.MVC\Fiap03.Banco\obj\Debug\refactor.xml
+D:\Fiap03.Web.MVC\Fiap03.Banco\obj\Debug\postdeploy.sql
+D:\Fiap03.Web.MVC\Fiap03.Banco\obj\Debug\predeploy.sql
